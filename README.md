@@ -2,7 +2,7 @@
 ### Adam Gumilang
 ### Nursantia
 ### Arya Prayoga
-### Edly
+### Edli Perdiansyah
 
 ## [Link Laporan](https://drive.google.com/drive/folders/1h078y3f5k2VuHMGDe6C6pGqgsaXYN5wa?usp=sharing)
 
