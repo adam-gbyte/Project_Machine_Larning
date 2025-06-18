@@ -9,3 +9,5 @@
 ## [Link Google Colab](https://colab.research.google.com/drive/1S-u0e0MrRUpws2PBh6IDBse05LWLcgOy?usp=sharing)
 
 ## [Streamlit](https://projectmachinelearning.streamlit.app/)
+
+## [Link Power Point](https://www.canva.com/design/DAGqqApTVsc/XQ43kbTXXsgFzNXz1Sh-Gg/edit?utm_content=DAGqqApTVsc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
